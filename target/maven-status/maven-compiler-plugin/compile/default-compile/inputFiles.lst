@@ -1,0 +1,13 @@
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/AdminController.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/config/SpringSecurity.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/UserController.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/JournalController.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/repository/JournalRepository.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/entity/JournalEntity.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/JournalApplication.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/service/JournalService.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/entity/UserEntity.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/service/UserDetailServiceImpl.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/PublicController.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/service/UserService.java
+/home/sejal/Downloads/journalApp/src/main/java/net/engineeringdigest/journalApp/repository/UserRepository.java
