@@ -1,0 +1,23 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sejal:zujEJgmcnNhvcQd2@cluster0.1f2ay.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: journaldb
+      auto-index-creation: true
+  profiles:
+    active: dev
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: sejaljadhav0508@gmail.com
+    password: aprc cybg onub ypup
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+weather:
+  api:
+    key: 926e3b24aeea7cfdb297c5c8087da10a
