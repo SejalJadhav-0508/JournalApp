@@ -6,7 +6,7 @@ import lombok.Data;
 import java.util.List;
 
 @Data
-public class WeatherResponse{
+public class WeatherResponse{                                     // JSON -> POJO : Deserialisation
     private Current current;
 
     @Data
